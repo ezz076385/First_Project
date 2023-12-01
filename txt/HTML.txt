@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hi it's just a test page </title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Hi it's just a test page</h1>
+    <h1>Hi it's just a test page 1111111</h1>
+  </header>
+  <section>
+    <p>Hi it's just a test page.</p>
+    <img src="OIP.jpeg" alt="hehhhh">
+  </section>
+  <footer>
+    <p> All Rights Reserved  2023 © </p>
+  </footer>
+</body>
+</html>
